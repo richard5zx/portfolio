@@ -9,3 +9,4 @@ Tools used:
 VSCode
 Google Font
 Tailwind
+Freepik (For icons https://www.freepik.com/)
