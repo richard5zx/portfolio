@@ -35,3 +35,8 @@ function toggleTheme() {
         localStorage.theme = 'light';
     }
 }
+
+// ---
+function displayPortfolio() {
+    alert("This website is the portfolio!");
+}
